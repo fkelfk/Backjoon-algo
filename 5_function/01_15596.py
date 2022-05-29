@@ -1,4 +1,4 @@
-# 15596
+15596
 
-# def solve(a):
-#     return sum(a)
+def solve(a):
+    return sum(a)
