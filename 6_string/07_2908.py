@@ -1,6 +1,5 @@
 # 2908
 
-from audioop import reverse
 import sys
 
 a, b = map(str, sys.stdin.readline().split())
@@ -13,4 +12,3 @@ for i in reversed(str(b)):
 
 print(max(reverse_a, reverse_b))
 
-# print(''.join(reversed(str(a))))
