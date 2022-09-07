@@ -15,4 +15,3 @@ croa_aphabet = {
 for i in croa_aphabet.values():
     if i in word:
         word = word.replace(i, "a")
-

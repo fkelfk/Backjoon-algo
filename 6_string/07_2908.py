@@ -11,4 +11,3 @@ for i in reversed(str(b)):
     reverse_b += i
 
 print(max(reverse_a, reverse_b))
-

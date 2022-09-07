@@ -1,5 +1,4 @@
 # 5622
-
 import sys
 
 alphabet = ["ABC", "DEF", "GHI", "JKL", "MNO", "PQRS", "TUV", "WXYZ"]
